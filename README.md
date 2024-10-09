@@ -1,8 +1,9 @@
-# exo_12
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang=""><head>
-  <meta charset="utf-8">
-  <meta name="generator" content="pandoc">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>Le point cartésien 2D</title>
   <style>
     html {
@@ -188,6 +189,5 @@
 <p>Redéfinir la méthode <code>__str__()</code> pour un affichage pertinent lors de l’appel à <code>print()</code>.</p>
 <h2 id="doctests">Doctests</h2>
 <p>Une fois la classe opérationnelle, ET SEULEMENT DANS CE CAS, lancer les doctests dans un terminal.</p>
-
-
-<nordpass-passkeys></nordpass-passkeys></body></html>
+</body>
+</html>
